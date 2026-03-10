@@ -17,6 +17,13 @@ class AnnouncementsPage extends StatelessWidget {
       "content": "Please review the updated holiday leave policy in the employee handbook. Effective immediately.",
       "type": "General"
     },
+
+    {
+      "title": "New Holiday Policy 2026",
+      "date": "Oct 20, 2026",
+      "content": "Please review the updated holiday leave policy in the employee handbook. Effective immediately.",
+      "type": "General"
+    },
   ];
 
   @override
